@@ -13,8 +13,8 @@ To use this software, follow the following steps:
 --telnet=socket,in,10,127.0.0.1,5402,tcp
 --generic=socket,out,10,127.0.0.1,5400,tcp,generic_small
  
-4.Open runServer.bat
-5.Open runClient.bat
-6.Start FlightGear
+4. Open runServer.bat
+5. Open runClient.bat
+6. Start FlightGear
 
 for reference, please watch my project presentation video - https://www.youtube.com/watch?v=GjBtE226xtU
